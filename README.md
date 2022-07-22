@@ -1,4 +1,4 @@
-**Algorithm challenges with javascript**
+**Algorithm challenges and their solutions with javascript**
 | Challenge                                                                                                         | Solution                                                                      |
 | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)      | [CompareTheTriplets.js](./solutions-of-algorithms/CompareTheTriplets.js)      |
@@ -7,3 +7,4 @@
 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true)                            | [Staircase.js](./solutions-of-algorithms/Staircase.js)                        |
 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)                      | [MiniMaxSum.js](./solutions-of-algorithms/MiniMaxSum.js)                      |
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)    | [BirthdayCakeCandles.js](./solutions-of-algorithms/BirthdayCakeCandles.js)    |
+| [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)                | [TimeConversion.js](./solutions-of-algorithms/TimeConversion.js)              |
