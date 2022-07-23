@@ -8,3 +8,5 @@
 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)                      | [MiniMaxSum.js](./solutions-of-algorithms/MiniMaxSum.js)                      |
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)    | [BirthdayCakeCandles.js](./solutions-of-algorithms/BirthdayCakeCandles.js)    |
 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)                | [TimeConversion.js](./solutions-of-algorithms/TimeConversion.js)              |
+| [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem?isFullScreen=true)                   | [TaumAndB'day.js](./solutions-of-algorithms/TaumAndB'day.js)                  |
+| [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)                       | [GradingStudents.js](./solutions-of-algorithms/GradingStudents.js)            |
