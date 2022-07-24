@@ -1,4 +1,5 @@
 **Algorithm challenges and their solutions with javascript**
+
 | Challenge                                                                                                         | Solution                                                                      |
 | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)      | [CompareTheTriplets.js](./solutions-of-algorithms/CompareTheTriplets.js)      |
@@ -10,3 +11,5 @@
 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)                | [TimeConversion.js](./solutions-of-algorithms/TimeConversion.js)              |
 | [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem?isFullScreen=true)                   | [TaumAndB'day.js](./solutions-of-algorithms/TaumAndB'day.js)                  |
 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)                       | [GradingStudents.js](./solutions-of-algorithms/GradingStudents.js)            |
+| [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true)              | [AppleAndOrange.js](./solutions-of-algorithms/AppleAndOrange.js)              |
+| [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true)                     | [NumberLineJumps.js](./solutions-of-algorithms/NumberLineJumps.js)            |
