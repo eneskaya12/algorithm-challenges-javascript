@@ -16,3 +16,4 @@
 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true)                      | [BetweenTwoSets.js](./solutions-of-algorithms/BetweenTwoSets.js)              |
 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true)   | [BreakingTheRecords.js](./solutions-of-algorithms/BreakingTheRecords.js)      |
 | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true)                     | [SubarrayDivision.js](./solutions-of-algorithms/SubarrayDivision.js)          |
+| [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)                | [DivisibleSumPairs.js](./solutions-of-algorithms/DivisibleSumPairs.js)        |
