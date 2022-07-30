@@ -18,3 +18,4 @@
 | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true)                     | [SubarrayDivision.js](./solutions-of-algorithms/SubarrayDivision.js)          |
 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)                | [DivisibleSumPairs.js](./solutions-of-algorithms/DivisibleSumPairs.js)        |
 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true)                        | [MigratoryBirds.js](./solutions-of-algorithms/MigratoryBirds.js)              |
+| [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true)            | [DayOfTheProgrammer.js](./solutions-of-algorithms/DayOfTheProgrammer.js)      |
