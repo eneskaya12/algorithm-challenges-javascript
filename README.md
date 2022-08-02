@@ -20,3 +20,4 @@
 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true)                        | [MigratoryBirds.js](./solutions-of-algorithms/MigratoryBirds.js)              |
 | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true)            | [DayOfTheProgrammer.js](./solutions-of-algorithms/DayOfTheProgrammer.js)      |
 | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true)                              | [BillDivision.js](./solutions-of-algorithms/BillDivision.js)                  |
+| [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true)                           | [SalesByMatch.js](./solutions-of-algorithms/SalesByMatch.js)                  |
