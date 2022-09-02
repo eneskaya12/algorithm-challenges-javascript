@@ -26,3 +26,4 @@
 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true)                      | [ElectronicsShop.js](./solutions-of-algorithms/ElectronicsShop.js)            |
 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)                      | [CatsAndMouse.js](./solutions-of-algorithms/CatsAndMouse.js)                  |
 | [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem?isFullScreen=true)            | [FormingAMagicSquare.js](./solutions-of-algorithms/FormingAMagicSquare.js)    |
+| [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true)                        | [PickingNumbers.js](./solutions-of-algorithms/PickingNumbers.js)              |
