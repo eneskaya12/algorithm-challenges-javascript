@@ -29,3 +29,4 @@
 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true)                        | [PickingNumbers.js](./solutions-of-algorithms/PickingNumbers.js)                  |
 | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)      | [ClimbingTheLeaderboard.js](./solutions-of-algorithms/ClimbingTheLeaderboard.js)  |
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)                        | [TheHurdleRace.js](./solutions-of-algorithms/TheHurdleRace.js)                    |
+| [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true)                | [DesignerPDFViewer.js](./solutions-of-algorithms/DesignerPDFViewer.js)            |
