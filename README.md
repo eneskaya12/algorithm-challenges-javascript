@@ -34,3 +34,4 @@
 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true)                            | [AngryProfessor.js](./solutions-of-algorithms/AngryProfessor.js)                      |
 | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true)  | [BeautifulDaysAtTheMovies.js](./solutions-of-algorithms/BeautifulDaysAtTheMovies.js)  |
 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true)                      | [ViralAdvertising.js](./solutions-of-algorithms/ViralAdvertising.js)                  |
+| [Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true)                        | [SaveThePrisoner.js](./solutions-of-algorithms/SaveThePrisoner.js)                    |
