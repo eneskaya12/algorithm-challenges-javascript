@@ -36,3 +36,4 @@
 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true)                      | [ViralAdvertising.js](./solutions-of-algorithms/ViralAdvertising.js)                  |
 | [Save the Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true)                        | [SaveThePrisoner.js](./solutions-of-algorithms/SaveThePrisoner.js)                    |
 | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem?isFullScreen=true)            | [CircularArrayRotation.js](./solutions-of-algorithms/CircularArrayRotation.js)        |
+| [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true)                     | [SequenceEquation.js](./solutions-of-algorithms/SequenceEquation.js)                  |
