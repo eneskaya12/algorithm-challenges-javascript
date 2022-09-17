@@ -38,3 +38,4 @@
 | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem?isFullScreen=true)            | [CircularArrayRotation.js](./solutions-of-algorithms/CircularArrayRotation.js)        |
 | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true)                     | [SequenceEquation.js](./solutions-of-algorithms/SequenceEquation.js)                  |
 | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem?isFullScreen=true)      | [JumpingOnTheClouds.js](./solutions-of-algorithms/JumpingOnTheClouds.js)              |
+| [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true)                                    | [FindDigits.js](./solutions-of-algorithms/FindDigits.js)                              |
