@@ -46,3 +46,4 @@
 | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true)                              | [CutTheSticks.js](./solutions-of-algorithms/CutTheSticks.js)                          |
 | [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem?isFullScreen=true)                  | [NonDivisibleSubset.js](./solutions-of-algorithms/NonDivisibleSubset.js)              |
 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true)                            | [RepeatedString.js](./solutions-of-algorithms/RepeatedString.js)                      |
+| [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem?isFullScreen=true)                     | [EqualizeTheArray.js](./solutions-of-algorithms/EqualizeTheArray.js)                  |
