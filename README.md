@@ -49,3 +49,4 @@
 | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem?isFullScreen=true)                     | [EqualizeTheArray.js](./solutions-of-algorithms/EqualizeTheArray.js)                  |
 | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem?isFullScreen=true)                      | [BeautifulTriplets.js](./solutions-of-algorithms/BeautifulTriplets.js)                |
 | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem?isFullScreen=true)                        | [MinimumDistances.js](./solutions-of-algorithms/MinimumDistances.js)                  |
+| [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem?isFullScreen=true)                              | [HalloweenSale.js](./solutions-of-algorithms/HalloweenSale.js)                        |
