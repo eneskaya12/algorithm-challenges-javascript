@@ -51,3 +51,4 @@
 | 047 | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem?isFullScreen=true)                        | [MinimumDistances.js](./solutions-of-algorithms/MinimumDistances.js)                  |
 | 048 | [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem?isFullScreen=true)                              | [HalloweenSale.js](./solutions-of-algorithms/HalloweenSale.js)                        |
 | 049 | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem?isFullScreen=true)                            | [ChocolateFeast.js](./solutions-of-algorithms/ChocolateFeast.js)                      |
+| 050 | [Service Lane](https://www.hackerrank.com/challenges/service-lane/problem?isFullScreen=true)                                  | [ServiceLane.js](./solutions-of-algorithms/ServiceLane.js)                            |
