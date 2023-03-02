@@ -54,3 +54,4 @@
 | 050 | [Service Lane](https://www.hackerrank.com/challenges/service-lane/problem?isFullScreen=true)                                  | [ServiceLane.js](./solutions-of-algorithms/ServiceLane.js)                            |
 | 051 | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem?isFullScreen=true)                              | [LisasWorkbook.js](./solutions-of-algorithms/LisasWorkbook.js)                        |
 | 052 | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem?isFullScreen=true)                                  | [FairRations.js](./solutions-of-algorithms/FairRations.js)                            |
+| 053 | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem?isFullScreen=true)                                      | [CavityMap.js](./solutions-of-algorithms/CavityMap.js)                                |
