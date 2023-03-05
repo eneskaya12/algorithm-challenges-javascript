@@ -57,3 +57,4 @@
 | 053 | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem?isFullScreen=true)                                      | [CavityMap.js](./solutions-of-algorithms/CavityMap.js)                                |
 | 054 | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem?isFullScreen=true)                        | [ManasaAndStones.js](./solutions-of-algorithms/ManasaAndStones.js)                    |
 | 055 | [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem?isFullScreen=true)                 | [ModifiedKaprekarNumbers.js](./solutions-of-algorithms/ModifiedKaprekarNumbers.js)    |
+| 056 | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem?isFullScreen=true)                              | [HappyLadybugs.js](./solutions-of-algorithms/HappyLadybugs.js)                        |
