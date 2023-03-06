@@ -58,3 +58,4 @@
 | 054 | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem?isFullScreen=true)                        | [ManasaAndStones.js](./solutions-of-algorithms/ManasaAndStones.js)                    |
 | 055 | [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem?isFullScreen=true)                 | [ModifiedKaprekarNumbers.js](./solutions-of-algorithms/ModifiedKaprekarNumbers.js)    |
 | 056 | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem?isFullScreen=true)                              | [HappyLadybugs.js](./solutions-of-algorithms/HappyLadybugs.js)                        |
+| 057 | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem?isFullScreen=true)                        | [SuperReducedString.js](./solutions-of-algorithms/SuperReducedString.js)              |
