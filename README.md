@@ -60,3 +60,4 @@
 | 056 | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem?isFullScreen=true)                              | [HappyLadybugs.js](./solutions-of-algorithms/HappyLadybugs.js)                        |
 | 057 | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem?isFullScreen=true)                        | [SuperReducedString.js](./solutions-of-algorithms/SuperReducedString.js)              |
 | 058 | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem?isFullScreen=true)                     | [InsertionSort-Part1.js](./solutions-of-algorithms/InsertionSort-Part1.js)            |
+| 059 | [Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem?isFullScreen=true)                               | [StrangeCounter.js](./solutions-of-algorithms/StrangeCounter.js)                      |
