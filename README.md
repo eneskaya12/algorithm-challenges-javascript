@@ -64,3 +64,4 @@
 | 060 | [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem?isFullScreen=true)                            | [StrongPassword.js](./solutions-of-algorithms/StrongPassword.js)                      |
 | 061 | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem?isFullScreen=true)            | [FlatlandSpaceStations.js](./solutions-of-algorithms/FlatlandSpaceStations.js)        |
 | 062 | [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem?isFullScreen=true)                     | [InsertionSort-Part2.js](./solutions-of-algorithms/InsertionSort-Part2.js)            |
+| 063 | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem?isFullScreen=true)                              | [CaesarCipher.js](./solutions-of-algorithms/CaesarCipher.js)                          |
